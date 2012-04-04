@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/spicelib-commands-3.1.1.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/flexunit.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/flexunit-uilistener-4.1.0_RC2-28-3.5.0.12683.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spicelib-util-3.1.0.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spicelib-xml-mapper-3.0.2.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spicelib-reflect-3.0.0.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hamcrest-as3-1.1.0.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/flexunit-4.1.0_RC2-28-flex_3.5.0.12683.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

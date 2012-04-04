@@ -31,11 +31,10 @@ import org.spicefactory.parsley.flex.resources.FlexResourceBindingAdapter;
  */
 public class FlexSupportClasses {
 	
-	FlexSupport;
+
 	FlexResourceBindingAdapter;
 	FlexContextBuilder;
 	FlexConfig;
-	ContextAwareTagBase;
-	
+	ontextAwareTagBase;
 }
 }
